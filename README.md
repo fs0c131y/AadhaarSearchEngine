@@ -7,6 +7,16 @@ This project is based on the work of @xtt129's seCrawler.
 * Python 2.7
 * Scrapy
 
+## How to install
+
+Clone this repository
+
+`git clone https://github.com/fs0c131y/AadhaarSearchEngine`
+
+Then install the dependencies
+
+`sudo pip install -r requirements.txt`
+
 ## How to run it
 Run the following command:
 
