@@ -9,7 +9,7 @@ This project is based on the work of @xtt129's seCrawler.
 
 ## How to install
 
-clone this repository
+Clone this repository
 
 `git clone https://github.com/fs0c131y/AadhaarSearchEngine`
 
